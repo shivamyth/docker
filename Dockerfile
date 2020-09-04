@@ -1,4 +1,4 @@
-FROM node:alpine as teamaplha
+FROM node:12.18.1-alpine as teamaplha
 
 WORKDIR /var/app
 

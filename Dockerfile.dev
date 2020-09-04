@@ -1,8 +1,8 @@
-FROM node:12.18.1-alpine
+FROM node:alpine
 
 WORKDIR /var/app
 
-COPY ./package.json ./
+COPY package.json .
 
 RUN npm install
 

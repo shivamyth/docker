@@ -18,9 +18,9 @@ deploy:
     access_key_id: $ACCESS_KEY_ID
     secret_access_key: "$SECRET_ACCESS_KEY"
     region: "ap-south-1"
-    app: "docker-youtube"
-    env: "DockerYoutube-env"
+    app: "docker"
+    env: "Docker-env"
     bucket_name: "elasticbeanstalk-ap-south-1-062642699343"
-    bucket_path: "docker-youtube"
+    bucket_path: "docker"
     on:
         branch: master

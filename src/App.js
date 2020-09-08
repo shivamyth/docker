@@ -10,7 +10,7 @@ function App() {
         <p>
           An amazing startup idea !!.
         </p>
-        <p>Assignment done. LearnCodeOnline wooo</p>
+        <p>Assignment done. LearnCodeOnline woooo</p>
         
       </header>
     </div>

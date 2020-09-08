@@ -1,4 +1,4 @@
-FROM node:lts-alpine3.9 as teamaplha
+FROM node:alpine as teamaplha
 
 WORKDIR /var/app
 
